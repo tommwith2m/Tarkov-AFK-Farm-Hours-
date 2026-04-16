@@ -14,5 +14,5 @@ Wont really work with steam since it will try to open loader directly instead of
 only god and AI knows how it works or why it works
 
 Credits to whoever made the script, i just "optimized" it and made it into an cooler app
-<img width="1908" height="874" alt="image" src="[https://github.com/user-attachments/assets/d9cd364d-a647-4bb3-b316-299589d0db34](https://imgur.com/a/M4GSVhm)" />
-<img width="1919" height="954" alt="image" src="[https://github.com/user-attachments/assets/2e54b9f8-e333-4dfe-9f71-6360f5c2553a](https://imgur.com/undefined)" />
+https://i.imgur.com/BqMz9Hz.jpeg
+https://i.imgur.com/mxJoLex.jpeg

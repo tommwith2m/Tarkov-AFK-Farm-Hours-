@@ -9,7 +9,7 @@ once you saved the path, open the loader, click capture play button, put your mo
 then start the afk tool, and just leave it running, if tarkov closes, it should reopen again
 Automatically presses Tab+Escape once every 3-6 minutes
 
-haven't tested with steam
+Wont really work with steam since it will try to open loader directly instead of steam, requiring so to log in with a bsg account, idk, find a way around i guess
 
 only god and AI knows how it works or why it works
 

@@ -13,3 +13,4 @@ haven't tested with steam
 
 only god and AI knows how it works or why it works
 
+Credits to whoever made the script, i just "optimized" it and made it into an cooler app
